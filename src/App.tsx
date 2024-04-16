@@ -18,6 +18,8 @@ export const App = () => {
           <PeoplePage />
         </div>
       </div>
+
+      <footer>Some footer</footer>
     </div>
   );
 };
