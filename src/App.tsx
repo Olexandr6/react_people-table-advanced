@@ -6,6 +6,9 @@ import './App.scss';
 export const App = () => {
   return (
     <div data-cy="app">
+      <header>
+        <h1>Some header</h1>
+      </header>
       <Navbar />
 
       <div className="section">
