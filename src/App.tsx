@@ -7,7 +7,10 @@ export const App = () => {
   return (
     <div data-cy="app">
       <header>
-        <h1>New header</h1>
+        <div className="header-container">
+          <img>Some img</img>
+          <h1>New header</h1>
+        </div>
       </header>
       <Navbar />
 
