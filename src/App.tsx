@@ -7,7 +7,7 @@ export const App = () => {
   return (
     <div data-cy="app">
       <header>
-        <h1>Some header</h1>
+        <h1>New header</h1>
       </header>
       <Navbar />
 
